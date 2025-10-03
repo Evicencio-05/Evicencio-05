@@ -21,7 +21,7 @@ Hey! I'm Ethan, a passionate student with a knack for building things in Python 
 
 ## 🌟 Featured Project
 
-### [Antique Bookshop](#)
+### [Antique Bookshop](https://github.com/Evicencio-05/antique_bookshop)
 A Django-based web application for managing an antique bookstore.  
 - Models and views for books, authors, customers, orders, and roles  
 - Django Admin integration  
