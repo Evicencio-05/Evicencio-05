@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Hey! I'm Ethan, a passionate student with a knack for building things in Python and C++. Whether I'm coding up a new project, catching a wave, lifting weights, or captivated by a book (or cat!), I'm always eager to learn and grow.
+Hey! I'm Ethan, a student who likes to work with Python and C++. Whether I'm coding up a new project, catching a wave, lifting weights, or captivated by a book (or cat!), I'm always eager to learn and grow.
 
 ---
 
